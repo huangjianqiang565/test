@@ -5,3 +5,4 @@ good morning!
 good noon!
 good afternoon！
 good night!
+hello,china!
