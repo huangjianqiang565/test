@@ -1,1 +1,4 @@
-push text.txt to origin from local!
+# 1st 2nd 3rd 4th 5th
+
+push text.txt to origin from directory:/git/temp/test 1st!
+push text.txt to origin from directory:/git/temp/test 2nd!
